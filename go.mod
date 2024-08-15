@@ -1,4 +1,4 @@
-module github.com/Terencesun/echo/v2
+module github.com/Terencesun/echo/v3
 
 go 1.18
 
